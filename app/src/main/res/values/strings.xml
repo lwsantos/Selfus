@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Selfus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_album_lista">Selfus</string>
+    <string name="title_activity_albuns_create">AlbunsCreateActivity</string>
+    <string name="title_activity_albuns_add_photo">AlbunsAddPhoto</string>
+    <string name="title_activity_album_fotos">AlbumFotos</string>
+
+    <string name="title_activity_foto_detalhe">FotoDetalheActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
